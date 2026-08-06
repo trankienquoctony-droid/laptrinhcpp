@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     string word;
-    cout <<"Nhap ten VO TUONG LAI : "; 
+    cout <<"Nhap ten TUONG LAI : "; 
     cin >> word; 
-    cout << " chao vo tuong lai: " << word << endl; 
+    cout << " chao tuong lai: " << word << endl; 
     return 0 ;
 }

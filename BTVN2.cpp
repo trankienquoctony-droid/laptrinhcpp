@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    const double PI = 3.14159;   // hang so, khong the gan lai
+    const double PI = 3.14159; 
     double banKinh;
 
     cout << "Nhap ban kinh: ";
